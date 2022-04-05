@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-framer-motion/static/css/main.b7c9dd41.chunk.css",
+    "main.js": "/react-framer-motion/static/js/main.66df926c.chunk.js",
+    "main.js.map": "/react-framer-motion/static/js/main.66df926c.chunk.js.map",
+    "runtime-main.js": "/react-framer-motion/static/js/runtime-main.898d55db.js",
+    "runtime-main.js.map": "/react-framer-motion/static/js/runtime-main.898d55db.js.map",
+    "static/js/2.48bb8971.chunk.js": "/react-framer-motion/static/js/2.48bb8971.chunk.js",
+    "static/js/2.48bb8971.chunk.js.map": "/react-framer-motion/static/js/2.48bb8971.chunk.js.map",
+    "index.html": "/react-framer-motion/index.html",
+    "precache-manifest.1c291e76b0c6d6b57ce2a01ff228f5cf.js": "/react-framer-motion/precache-manifest.1c291e76b0c6d6b57ce2a01ff228f5cf.js",
+    "service-worker.js": "/react-framer-motion/service-worker.js",
+    "static/css/main.b7c9dd41.chunk.css.map": "/react-framer-motion/static/css/main.b7c9dd41.chunk.css.map",
+    "static/js/2.48bb8971.chunk.js.LICENSE.txt": "/react-framer-motion/static/js/2.48bb8971.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.898d55db.js",
+    "static/js/2.48bb8971.chunk.js",
+    "static/css/main.b7c9dd41.chunk.css",
+    "static/js/main.66df926c.chunk.js"
+  ]
+}
